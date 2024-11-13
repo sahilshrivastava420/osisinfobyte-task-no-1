@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Landing page",
+			"path": "."
+		},
+		{
+			"name": "Prototype",
+			"path": "../Prototype"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Landing page"
+	}
+}
